@@ -1,0 +1,17 @@
+[project]
+name = "docker-image-stremlit"
+version = "1"
+description = ""
+authors = [
+    {name = "ItaSsa",email = "itairassa@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "streamlit (>=1.44.1,<2.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
