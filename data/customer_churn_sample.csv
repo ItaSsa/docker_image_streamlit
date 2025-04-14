@@ -1,0 +1,6 @@
+CustomerID,Age,Gender,Tenure,MonthlyCharges,TotalCharges,Churn
+1001,25,Female,1,29.85,29.85,No
+1002,45,Male,5,56.95,284.75,Yes
+1003,35,Male,2,53.85,107.7,No
+1004,50,Female,10,42.3,423.0,Yes
+1005,29,Female,3,70.7,212.1,No
